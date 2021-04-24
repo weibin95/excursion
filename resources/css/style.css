@@ -22,9 +22,16 @@ body {
     color:grey;   
 }
 
-/* Headings */
+/* Links */
 
 .link-cta{
     font-size: 16px;
     color: aquamarine;
+}
+
+/* Footer */
+.footer-copyright{
+    text-align: right;
+    font-size: 21px;
+    color: grey;
 }
